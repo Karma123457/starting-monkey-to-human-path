@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "starting-monkey-to-human-path", "starting-monkey-to-human-path.csproj", "{018B6758-B80C-4D87-9C60-17A3894B5D8C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{018B6758-B80C-4D87-9C60-17A3894B5D8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{018B6758-B80C-4D87-9C60-17A3894B5D8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{018B6758-B80C-4D87-9C60-17A3894B5D8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{018B6758-B80C-4D87-9C60-17A3894B5D8C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AADED0F6-BB75-488E-BC5B-13239911F20D}
+	EndGlobalSection
+EndGlobal
